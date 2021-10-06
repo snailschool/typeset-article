@@ -16,6 +16,10 @@
 	padding-left: 5%;
 }
 
+.italic{
+	font-style:italic;
+}
+
 h1 { 
 	font-family: 'Noto Sans Display', sans-serif;
 	font-size: 36px; 
