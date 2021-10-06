@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media print {
+   img {
+	max-width: 500px;
+	}
+	
+	
+	@page {
+	margin: 0.5cm;
+	}
+
+	h1{
+		font: Georgia, "Times New Roman", Times, serif;
+		font-size: 36pt;
+	}
+	
+	h2{
+		font: Georgia, "Times New Roman", Times, serif;
+		font-size: 28pt;
+	}
+	
+	h3{
+		font: Georgia, "Times New Roman", Times, serif;
+		font-size: 18pt;
+	}
+	
+	body {
+	font: 12pt Georgia, "Times New Roman", Times, serif;
+	line-height: 1.3;
+	}
+
+}
+
+
+
